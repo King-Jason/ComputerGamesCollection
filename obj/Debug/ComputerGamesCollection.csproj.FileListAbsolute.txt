@@ -1,0 +1,49 @@
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.config
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.pdb
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csprojAssemblyReference.cache
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Properties.Resources.resources
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.GenerateResource.cache
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.CoreCompileInputs.cache
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.pdb
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.ComputerGamesCollection.resources
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.manifest
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.application
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe.manifest
+C:\Users\jasok\source\repos\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.application
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.config
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.manifest
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.application
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.pdb
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.ComputerGamesCollection.resources
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Properties.Resources.resources
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.GenerateResource.cache
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.CoreCompileInputs.cache
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe.manifest
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.application
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.pdb
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.config
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe.manifest
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.application
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.exe
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\bin\Debug\ComputerGamesCollection.pdb
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csprojAssemblyReference.cache
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.ComputerGamesCollection.resources
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Properties.Resources.resources
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.GenerateResource.cache
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.CoreCompileInputs.cache
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe.manifest
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.application
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe
+F:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.pdb
+E:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csprojAssemblyReference.cache
+D:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csprojAssemblyReference.cache
+D:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.ComputerGamesCollection.resources
+D:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.Properties.Resources.resources
+D:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.GenerateResource.cache
+D:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.csproj.CoreCompileInputs.cache
+D:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.exe
+D:\TAFE Cert IV Programming\Programming 1\AT 3\ComputerGamesCollection\ComputerGamesCollection\obj\Debug\ComputerGamesCollection.pdb
